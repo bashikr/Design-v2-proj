@@ -4,7 +4,7 @@ views:
         region: sidebar-right
         template: anax/v2/block/default
         data:
-            meta: 
+            meta:
                 type: single
                 route: block/om-kursrepo
 
@@ -12,17 +12,18 @@ views:
         region: sidebar-right
         template: anax/v2/block/default
         data:
-            meta: 
+            meta:
                 type: single
                 route: block/om-redovisa
 ---
-Om
+Om Kursen:
 =========================
 
-Detta innehåll är skrivet i markdown och du hittar innehållet i filen `content/om.md`.
+<img src="image/22.png" class="right1">
 
-Skriv några kloka ord om kursen?
 
-Lägg till en representativ bild för kursen, enligt ditt egna val.
+Kursen Teknisk design och användbarhet fokuserar på tekniker som används för att optimera webbdesign med extra fokus på användbarhet av webbplatser. Den också visar upp makten små fix kan göra i att ändra webbplatsens utseende.
 
-[FIGURE src=image/car.png?w=300 caption="En fin bil som demobild."]
+Områdena kursen fokuserar på är bland annat färglära och typografi, grid-baserad layout, lagar och regler kring webbplatser och inte minst CSS-konstruktioner för styling med SASS/LESS i tillägg till CSS.
+
+I den här kursen kommer vi att tillämpa de förnämnda teknikerna på en PHP ramverk som kallas ANAX. Vi också kommer att lära oss pusha, clona, committa och tagga på GitHub.

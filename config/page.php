@@ -14,13 +14,13 @@ return [
         "data" => [
             "baseTitle" => " | design",
             "bodyClass" => null,
-            "favicon" => "favicon.ico",
+            "favicon" => "img/bashar_favicon.ico",
             "htmlClass" => null,
             "lang" => "sv",
             "stylesheets" => [
                 // Change here to set another default stylesheet
-                "css/dbwebb-se.min.css",
-                //"css/kmom01.css",
+                // "css/dbwebb-se.min.css",
+                "css/kmom01.css",
             ],
             "javascripts" => [
                 "js/responsive-menu.js",
@@ -35,7 +35,7 @@ return [
             "template" => "anax/v2/header/site_logo",
             "data" => [
                 "class" => "large",
-                "siteLogo"      => "image/theme/leaf_256x256.png",
+                "siteLogo"      => "image/theme/logo.png?width=70&height=70&crop-to-fit",
                 "siteLogoAlt"   => "Löv",
             ],
         ],
@@ -45,7 +45,7 @@ return [
             "data" => [
                 "homeLink"      => "",
                 "siteLogoText"  => "design",
-                "siteLogoTextIcon" => "image/theme/leaf_40x40.png",
+                "siteLogoTextIcon" => "image/theme/logo.png?width=70&height=70&crop-to-fit",
                 "siteLogoTextIconAlt" => "Löv-bild",
             ],
         ],
