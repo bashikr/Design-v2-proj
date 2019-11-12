@@ -1,4 +1,2 @@
-Min me/redovisa
+Design course
 ===================
-
-Här skriver jag något om mig och repot.
