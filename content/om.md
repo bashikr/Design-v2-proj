@@ -1,7 +1,7 @@
 ---
 views:
     kursrepo:
-        region: sidebar-right
+        region: sidebar-left
         template: anax/v2/block/default
         data:
             meta:
@@ -9,7 +9,7 @@ views:
                 route: block/om-kursrepo
 
     redovisa:
-        region: sidebar-right
+        region: sidebar-left
         template: anax/v2/block/default
         data:
             meta:

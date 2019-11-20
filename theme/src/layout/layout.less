@@ -1,0 +1,120 @@
+/**
+ * Layout style for general structure of header, navbar, main, footer
+ * and other regions of the page including route specific styles.
+ */
+
+/**
+ * Variables
+ */
+
+
+/**
+ * General layout
+ */
+.inner-wrap {
+    max-width: 1100px;
+    margin: 0 auto;
+    margin-bottom: 20px;
+    // background-color: black;
+}
+
+
+.wrap-all {
+    // max-width: 800px;
+    // margin: 0 auto;
+    background-color: #ccc;
+}
+
+
+.site-logo {
+    display:none;
+}
+
+
+/**
+* Main, and sidebars layout
+*/
+
+.region-main { //du kan ta dne här bort för den sabbar stylen
+    
+    width: 70%;
+    margin-left: 10%;
+    float: left;
+    overflow: auto;
+
+    &.has-sidebar {
+        margin-left: 0;
+    }
+}
+
+
+.region-sidebar-left,
+.region-sidebar-right {
+    display: inline;
+    float: left;
+    width: 23.125%;
+    margin-right: .52083333%;
+    margin-left: 1.688%;
+    margin-top: 14px;
+}
+
+.inner-wrap-mian {
+    // .clearfix();
+    overflow: auto;
+}
+// .region-main {
+//     margin-left: 3%;
+//     margin-right: 3%;
+// }
+
+
+.region-main { //du kan ta dne här bort för den sabbar stylen
+
+    width: 70%;
+    float: left;
+}
+
+/**
+* Footer layout
+*/
+
+
+
+.rm-desktop li {
+    position: relative;
+}
+
+
+.rm-default li {
+    display: inline-block;
+}
+
+
+.rm-desktop li a {
+    color: inherit;
+    background-color: inherit;
+}
+
+
+.rm-default a {
+    display: block;
+    text-decoration: none;
+    white-space: nowrap;
+    padding: 1em;
+    outline: 0;
+}
+
+
+.rm-desktop li .rm-submenu-button {
+    display: none;
+}
+
+
+.rm-default a {
+    display: block;
+    text-decoration: none;
+    white-space: nowrap;
+    padding: 0.8em 0.4em 0.4em 0.4em;
+    outline: 0;
+}
+
