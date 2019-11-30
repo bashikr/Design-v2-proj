@@ -1,13 +1,29 @@
 ---
 title: "Home"
 views:
-    #mumin:
-    #    region: sidebar-right
-    #    template: anax/v2/block/default
-    #    data:
-    #        meta:
-    #            type: single
-    #            route: block/om-mumin
+    design:
+       region: sidebar-right
+       template: anax/v2/block/default
+       data:
+           meta:
+               type: single
+               route: block/om-design
+
+    kursrepo:
+        region: sidebar-right
+        template: anax/v2/block/default
+        data:
+            meta:
+                type: single
+                route: block/om-kursrepo
+
+    redovisa:
+        region: sidebar-right
+        template: anax/v2/block/default
+        data:
+            meta:
+                type: single
+                route: block/om-redovisa
     byline:
         region: main
         template: anax/v2/block/default
@@ -27,8 +43,6 @@ A Brief Presentation About Myself
 <!-- Detta innehåll är skrivet i markdown och du hittar innehållet i filen `content/index.md`. -->
 
 [FIGURE src="image/bashar_me.jpg?w=400" class="right" caption="Bashar in Fridhemsplan, Stockholm."]
-
-Hello everybody,
 
 My name is Bashar Altaleb and I am 27 years old, single, and don't have children yet. I come originally from Syria, born and raised in Damascus "The capital city in Syria", but I have moved to Sweden in September 2015. At first, I lived in a little city called Avesta in Dalarna province, but in 2018 I moved to Sundbyberg, Stockholm.</br>
 </br>

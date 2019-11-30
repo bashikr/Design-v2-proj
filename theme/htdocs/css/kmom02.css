@@ -5106,11 +5106,9 @@ a {
   border-radius: 100%;
 }
 .article {
-  margin-bottom: 20px;
   width: 100%;
   font-size: 17px;
   padding: 25px;
-  margin-top: 23px;
   font-family: helvetica;
   font-weight: 400;
   background-color: white;
@@ -5135,7 +5133,6 @@ a {
   color: #333;
   background-color: white;
   width: 100%;
-  margin-bottom: 20px;
 }
 .byline p {
   font-size: 17px;
@@ -5193,8 +5190,8 @@ i {
   overflow: auto;
 }
 /**
- * Header layout
- */
+  * Header layout
+  */
 .inner-wrap.inner-wrap-header {
   margin-right: auto;
   margin-left: auto;
@@ -5270,8 +5267,8 @@ i {
   color: #ffd343;
 }
 /*
-* Navbar layout 
-*/
+ * Navbar layout 
+ */
 .rm-navbar-max .rm-button {
   position: relative;
   top: 3px;
@@ -5395,8 +5392,8 @@ a.rm-button .rm-button-face-2 {
   position: relative;
 }
 /*
-* Breadcrumb layout
-*/
+ * Breadcrumb layout
+ */
 .breadcrumb-list li a,
 .bullet-list li a {
   color: inherit;
@@ -5445,8 +5442,8 @@ a.rm-button .rm-button-face-2 {
   display: none;
 }
 /**
-* Main, and sidebars layout
-*/
+ * Main, and sidebars layout
+ */
 .region-main {
   width: 70%;
   margin-left: 14%;
@@ -5507,8 +5504,8 @@ a.rm-button .rm-button-face-2 {
   margin-right: 1.85%;
 }
 /*
-* Sidebar layout
-*/
+ * Sidebar layout
+ */
 .region-sidebar-left,
 .region-sidebar-right a:hover {
   color: #8b1f1f;
@@ -5526,6 +5523,7 @@ a.rm-button .rm-button-face-2 {
 .region-sidebar-right {
   float: left;
   width: 30%;
+  background-color: white;
 }
 .region-sidebar-left.has-sidebar-right,
 .region-sidebar-right.has-sidebar-left {
@@ -5632,8 +5630,8 @@ body {
   font-family: SourceSansProBold, Arial, sans-serif;
 }
 /**
-* Footer layout
-*/
+ * Footer layout
+ */
 .inner-wrap-footer,
 .outer-wrap-footer {
   color: #fff;
