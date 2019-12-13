@@ -28,6 +28,6 @@ stuff for him to get to know more about later!
 
 <h3>About this website:</h3>
 <p>This website is built by HTML, CSS, PHP, and JavaScript, as a part of the two courses
- <a href="http://dbwebb.se/htmlphp" style="color: #0e2ead">htmlphp</a>,
-<a href="https://dbwebb.se/kurser/design-v2" style="color: #0e2ead">Design</a>.</p>
+ <a href="http://dbwebb.se/htmlphp" class="color-by">htmlphp</a>,
+<a href="https://dbwebb.se/kurser/design-v2" class="color-by">Design</a>.</p>
 </footer>

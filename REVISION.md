@@ -1,6 +1,12 @@
 Min me/redovisa
 ===================
 
+v4.0.0 (2019-12-13)
+----------------------
+
+* Done with the color wheel and typographic technique!
+
+
 v3.0.0 (2019-12-01)
 ----------------------
 
