@@ -19,8 +19,8 @@ views:
 Om Kursen:
 =========================
 
-<img src="image/22.png" class="right1">
 
+[FIGURE src="image/code_design.png" caption="Design Masters" class="right w33"]
 
 Kursen Teknisk design och användbarhet fokuserar på tekniker som används för att optimera webbdesign med extra fokus på användbarhet av webbplatser. Den också visar upp makten små fix kan göra i att ändra webbplatsens utseende.
 

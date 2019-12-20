@@ -1,6 +1,12 @@
 Min me/redovisa
 ===================
 
+v5.0.0 (2019-12-21)
+----------------------
+
+* Done with the technique of enhancing the website's load time, and "Cimage" photo modifying tool.
+
+
 v4.0.0 (2019-12-13)
 ----------------------
 

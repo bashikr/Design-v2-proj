@@ -14,7 +14,7 @@ return [
         "data" => [
             "baseTitle" => " | design",
             "bodyClass" => null,
-            "favicon" => "img/bashar_favicon.ico",
+            "favicon" => "image/bashar_favicon.png?crop-to-fit&w=64&h=64",
             "htmlClass" => null,
             "lang" => "sv",
             "stylesheets" => [
@@ -23,7 +23,8 @@ return [
                 //"css/kmom01.css",
                 //"css/kmom02.css",
                 //"css/kmom03.css",
-                "css/kmom04.css",
+                //"css/kmom04.css",
+                "css/kmom05.css",
 
 
             ],
