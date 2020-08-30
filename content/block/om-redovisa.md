@@ -1,6 +1,5 @@
-#### Redovisa på GitHub
+#### Change theme
 
-Mitt redovisa-sida ligger på [Redovisa/GitHub](https://github.com/bashikr/Design-v2/blob/master/content/redovisning/01_kmom01.md).
+Change theme to [Bright](http://www.student.bth.se/~baaa19/dbwebb-kurser/design/me/proj/htdocs/om?style=bright)
 
-
-Mitt Me-sida ligger på [Me/GitHub](https://github.com/bashikr/Design-v2/blob/master/content/index.md).
+Change theme to [Dark](http://www.student.bth.se/~baaa19/dbwebb-kurser/design/me/proj/htdocs/om?style=dark)

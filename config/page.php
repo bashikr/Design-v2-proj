@@ -12,19 +12,16 @@ return [
         "region" => "layout",
         "template" => "anax/v2/layout/dbwebb_se",
         "data" => [
-            "baseTitle" => " | design",
+            "baseTitle" => " | Bew Gorp",
             "bodyClass" => null,
-            "favicon" => "image/bashar_favicon.png?crop-to-fit&w=64&h=64",
+            "favicon" => "image/theme/s.png?crop-to-fit&w=64&h=64",
             "htmlClass" => null,
             "lang" => "sv",
             "stylesheets" => [
                 // Change here to set another default stylesheet
-                // "css/dbwebb-se.min.css",
-                //"css/kmom01.css",
-                //"css/kmom02.css",
-                //"css/kmom03.css",
-                //"css/kmom04.css",
-                "css/kmom05.css",
+               // "css/kmom06.css",
+               "css/bright.css",
+               
 
 
             ],
@@ -41,8 +38,8 @@ return [
             "template" => "anax/v2/header/site_logo",
             "data" => [
                 "class" => "large",
-                "siteLogo"      => "image/theme/logo.png?width=70&height=70&crop-to-fit",
-                "siteLogoAlt"   => "Löv",
+                "siteLogo"      => "image/theme/s.png",
+                "siteLogoAlt"   => "Bew Gorp",
             ],
         ],
         [
@@ -50,9 +47,9 @@ return [
             "template" => "anax/v2/header/site_logo_text",
             "data" => [
                 "homeLink"      => "",
-                "siteLogoText"  => "design",
-                "siteLogoTextIcon" => "image/theme/logo.png?width=70&height=70&crop-to-fit",
-                "siteLogoTextIconAlt" => "Löv-bild",
+                "siteLogoText"  => "Bew Gorp",
+                "siteLogoTextIcon" => "image/theme/s.png",
+                "siteLogoTextIconAlt" => "Bew Gorp",
             ],
         ],
         [

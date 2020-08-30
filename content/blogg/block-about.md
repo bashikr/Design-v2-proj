@@ -1,3 +1,3 @@
-#### Dagens bild
+#### Latest news
 
-Här presenterar jag dagens bild från mina rundresor här i Stockholm.
+The Bew Gorp's policy focuses on informing our dear customers about everything related to the latest news and developments occuring in the company.

@@ -1,1 +1,1 @@
-Copyright © 2019 | Bashar Altaleb | All Rights Reserved
+Copyright © 2020 | Bew Gorp | All Rights Reserved

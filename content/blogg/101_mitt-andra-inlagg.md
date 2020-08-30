@@ -1,75 +1,38 @@
 ---
-author: Bashar Altaleb
+author: Simon Bergström
 category:
-    - resor
-    - evenemang
+    - News
     - Stockholm
     - Sweden
-published: "2019-12-15"
+published: "2020-01-14"
 ---
-Pepparkakshus
+Time to move to central Stockholm
 ==================================
 
-Varje år organiseras en evenemang om pepparkakor. Pepparkaksutställningen mottager både armaturer samt arkitekturer och bagare. I söndag 15 december 2019, åkte jag på tunnelbanan med en kompis till mig mot Moderna Museet som ligger på Skeppsholmen, Stockholm. Där tog jag en hel del bilder på olika pepparkaksfigurer från pepparkakshus, vagnar, vulkaner, tekannor till 3D printade pepparkakor. Det var riktigt roligt att kolla på såna mästerverk.
+At the end of 2019, Bew Gorp has been in great demand for its products and therfore the company needs new collegues. As a result, the company decided to search for a larger local to absorb this amount of staff. After a lot of trouble finding a suitable place, we finally found the wished one that is located on Sveavägen 50, Stockholm.
 
-[FIGURE src=image/Global-warming.jpg?area=30,8,2,25&save-as=jpg class="report1" caption="Arkitektur- och Designcentrum | Skeppsholmen, Stockholm."]
-
+[FIGURE src=image/blogg/news/table.jpg?save-as=jpg&w=900 class="report1" caption="Our new local at Sveavägen 50, Stockholm."]
 <!--more-->
 
 
-Bild spec {#anchor-hit}
+Conference, teamwork rooms and more {#anchor-hit}
 -----------------------------------
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+We are very proud to say that we have gotten a very fresh place. The new local has the capacity to accomodate more staff and there are many conference-ready rooms. Moreover, our employees will get more entertainment oppurtinities such as room to play music, video game room, and pingpong room.
 
-[FIGURE src=image/Global-warming.jpg?w=387&aspect-ratio=!3:2&crop-to-fit&area=30,40,25,25 class="right w50 report1" caption="crop, aspect-ratio & area"]
+[FIGURE src=image/blogg/news/corridor.jpg?w=387&aspect-ratio=!3:2&crop-to-fit&area=30,40,25,25 class="right w50 report1" caption="teamwork rooms"]
 
-1. Kamera: Samsung S9+
-2. Flash mod: av
-3. Slutartid: 1/33
-4. Bländare: f/2.4
-5. Brännvidd: 4mm
-6. Metering mod: Center Weighted
-7. ISO hastighet: ISO-250
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-[FIGURE src=image/Global-warming.jpg?w=387&h=400&aspect-ratio=!3:2&crop-to-fit&area=42,-3,22,21 class="left w50 report1" caption=" crop, aspect-ratio & area"]
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-[FIGURE src=image/Global-warming.jpg?w=387&h=400&aspect-ratio=!3:2&crop-to-fit&area=42,-3,22,21&rb=90 class="right w50 report1" caption=" crop, aspect-ratio, rotate (rb) & area"]
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-[FIGURE src=image/Global-warming.jpg?w=387&h=400&aspect-ratio=!3:2&crop-to-fit&area=42,12,22,21&rb=-20 class="left w50 report1" caption=" crop, aspect-ratio, rb & area"]
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-[FIGURE src=image/Global-warming.jpg?w=387&h=400&aspect-ratio=!3:2&crop-to-fit&area=42,-3,22,21&aro&ra=15&bgc=cccccc class="right w50 report1" caption=" crop, aspect-ratio, ra, aro, bgc & area"]
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-### Detaljer {#vad-som}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-[FIGURE src=image/Global-warming.jpg?area=30,18,0,35&crop-to-fit&convolve=sharpen-alt:emboss-alt:lighten class="center report1" caption="convolve=sharpen-alt:emboss-alt:lighten och area"]
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+One of the most important points that the company focused on when it was looking for a new local, was the restaurant. It has been our goal to find a big restaurant where everyone can have a place when the work pause starts. The main  goal of this process is to get employees to know more about each other. We are working on buliding a large family based on interconeectedness and understanding between our staff.
 
 
-<!-- [FIGURE src=image/Global-warming.jpg?area=30,8,0,25&f=grayscale&f0=brightness,-10&f1=contrast,-20&f2=colorize,120,60,0,0&sharpen class="report1" caption="Area, filter=sharpen och colorize"] -->
+Believe it or not, Bew Gorp decided to  adopt a jacuzzi for its staff in case they wanted to relax.
+
+Last but not least, the new local is located in the Stockholms down town. That said, at the time of break, employees can do something else like shopping, or visiting doctor or so. In addition, Bew's new place is located next to the bus and tram station. That makes our spolied employees save their time when they finish work.
+<br>
 
 
-[FIGURE src=image/Global-warming.jpg?area=30,8,0,25&f=grayscale&f=pixelate,50,0 class="report1" caption="Grayscale, pixelate, och area"]
+### Comfort test {#vad-som}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+In this picture, John Madson, is an English programmer with 8 years of experience in this field. On 15 Jul 2017 he moved to Sweden to work for Bew Gorp. Now, he works as a project manager. John focuses heavily on the convienience of his staff to get the best of them. As you can see in this picture, he himself checks the degree of comfort of the chairs and tables in every room in the new place.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+[FIGURE src=image/blogg/news/programmer.jpg?area=30,18,0,35&crop-to-fit&w=1000 class=" report1" caption="Project manager: John Madson"]
+

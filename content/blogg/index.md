@@ -30,6 +30,6 @@ views:
                 view: blog-list
 
 ---
-#### Dagens bild
+#### Latest news
 
-Välkommen till den här bloggen. Nedean presenterar jag dagens bild från mina resor här i Stockholm.
+The Bew Gorp's policy focuses on informing our dear customers about everything related to the latest news and developments occuring in the company.
